@@ -1,0 +1,12 @@
+body {
+  background-color: hotpink;
+}
+
+.key {
+  transition: all 70ms;
+}
+
+.playing {
+  background-color: blue;
+  transform: scale(1.1);
+}
